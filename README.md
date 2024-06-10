@@ -1,6 +1,6 @@
 # Chat-bot-1
 #REPORT
-Absolutely, here is a detailed report on your code for a simple chatbot:
+Detailed report for my a simple chatbot:
 
 *Imports:*
 
