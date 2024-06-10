@@ -1,10 +1,3 @@
-# Chat-bot-1
-#REPORT
-Detailed report for my a simple chatbot:
-
-*Imports:*
-
-* re: This library is imported for regular expression functionality. In the context of the chatbot, it is likely used to split the user's message into a list of words.
 
 *Functions:*
 
